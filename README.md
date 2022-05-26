@@ -12,5 +12,5 @@
 
  <h2 align="center">El video más reciente <br></h1>
   
- [![Alt text](https://img.youtube.com/vi/eEz6mBtRutU/0.jpg)](https://www.youtube.com/watch?v=eEz6mBtRutU)
+ <p align="center">[![Alt text](https://img.youtube.com/vi/eEz6mBtRutU/0.jpg)](https://www.youtube.com/watch?v=eEz6mBtRutU)</p>
   
