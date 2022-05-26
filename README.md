@@ -7,7 +7,6 @@
   
 <p align="center">
   Editor de video de: <br> <br>
-  
   <a title="Mecuba" href="https://www.youtube.com/c/MECUBA"><img src="M.png" alt="Mecuba" width="8%" /></a>
 <p>
 
