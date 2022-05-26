@@ -1,17 +1,4 @@
-<style>
-  .videobox{
-    position: relative;
-    overflow: hidden;
-    padding-top: 56.25%;
-  }
-  .videobox iframe{
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
-</style>
+
 <div>
   <h1 align="center"><a href="https://www.instagram.com/ajelandro_gm/?hl=es-la" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ajelandro_gm" height="30" width="40"> </a> Alejandro GM <a href="https://twitter.com/Ajelandro_GM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ajelandro_gm" height="30" width="40"><a/> </h1>
 </div>
@@ -24,7 +11,6 @@
 <p>
 
  <h2 align="center">El video más reciente <br></h1>
-<div class="videobox">
-   
-  <iframe src="https://www.youtube.com/embed/eEz6mBtRutU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+  
+ [![Alt text](https://img.youtube.com/vi/eEz6mBtRutU/0.jpg)](https://www.youtube.com/watch?v=eEz6mBtRutU)
+  
