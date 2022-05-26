@@ -12,5 +12,5 @@
 
  <h2 align="center">El video más reciente <br></h1>
 <div align="center"> 
- [![Alt text](https://img.youtube.com/vi/eEz6mBtRutU/0.jpg)](https://www.youtube.com/watch?v=eEz6mBtRutU)
+ <iframe src="https://www.youtube.com/embed/eEz6mBtRutU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>  
