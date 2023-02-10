@@ -15,5 +15,5 @@
   [![Alt text](https://img.youtube.com/vi/KvV8oLDAyog/0.jpg)](https://www.youtube.com/watch?v=KvV8oLDAyog)
 
 <p align="center">
-  <img width="460" height="300" src="https://img.youtube.com/vi/KvV8oLDAyog/0.jpg">
+  <a href="https://www.youtube.com/watch?v=KvV8oLDAyog"><img width="460" height="300" src="https://img.youtube.com/vi/KvV8oLDAyog/0.jpg"></a>
 </p>
