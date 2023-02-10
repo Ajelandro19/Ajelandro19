@@ -14,5 +14,5 @@
   
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=KvV8oLDAyog"><img width="1280" height="720" src="https://img.youtube.com/vi/KvV8oLDAyog/0.jpg"></a>
+  <a href="https://www.youtube.com/watch?v=KvV8oLDAyog"><img width="854" height="480" src="https://img.youtube.com/vi/KvV8oLDAyog/0.jpg"></a>
 </p>
